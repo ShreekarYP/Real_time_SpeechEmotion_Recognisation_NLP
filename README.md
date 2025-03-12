@@ -1,11 +1,3 @@
-   #speech-emotion-recog
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Here’s your `README.md` for the **NLP Speech Emotion Recognition** project in a structured and professional format:  
-
----
-
 # 🗣️ NLP Speech Emotion Recognition 🔍  
 A real-time speech emotion recognition system using **Python, NLP, Speech Recognition, and Machine Learning**. It captures speech, processes text, and classifies emotions using **TF-IDF, Count Vectorization, Naive Bayes, SVM, and an ensemble model**.  
 
