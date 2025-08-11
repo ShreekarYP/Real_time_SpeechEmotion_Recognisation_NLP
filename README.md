@@ -7,7 +7,9 @@ A real-time speech emotion recognition system using **Python, NLP, Speech Recogn
 ✅ Feature extraction using **TF-IDF & Count Vectorization**  
 ✅ Balances imbalanced datasets using **SMOTE (Synthetic Minority Over-sampling Technique)**  
 ✅ Trains and evaluates models: **Naive Bayes, SVM, and Voting Classifier**  
-✅ Interactive mode for **live emotion detection**  
+✅ Interactive mode for **live emotion detection** 
+
+## features added to learn git 
 
 ## 📌 Technologies Used  
 - **Python** (NLP and Machine Learning)  
