@@ -9,7 +9,6 @@ A real-time speech emotion recognition system using **Python, NLP, Speech Recogn
 ✅ Trains and evaluates models: **Naive Bayes, SVM, and Voting Classifier**  
 ✅ Interactive mode for **live emotion detection** 
 
-## features added to learn git 
 
 ## 📌 Technologies Used  
 - **Python** (NLP and Machine Learning)  
